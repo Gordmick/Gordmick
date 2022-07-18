@@ -4,7 +4,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+<a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/GITBASH">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
