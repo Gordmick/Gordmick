@@ -24,4 +24,7 @@
  <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Charles">
 <img src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" title="Charles" alt="Charles" width="40" height="40"/>&nbsp;
 </a>
+  <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Devtools">
+<img src="https://miro.medium.com/fit/c/294/294/1*MjtZabdd0xkWLT-i9HxmAw.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp;
+</a>
 </div>
