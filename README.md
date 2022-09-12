@@ -25,12 +25,12 @@
 <img src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" title="Charles" alt="Charles" width="60" height="60"/>&nbsp;
 </a>
   <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Devtools">
-<img src="https://miro.medium.com/fit/c/294/294/1*MjtZabdd0xkWLT-i9HxmAw.png" title="Devtools" alt="Devtools" width="80" height="80"/>&nbsp;
+<img src="https://miro.medium.com/fit/c/294/294/1*MjtZabdd0xkWLT-i9HxmAw.png" title="Devtools" alt="Devtools" width="60" height="60"/>&nbsp;
 </a>
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Jmeter">
 <img src="https://jmeter.apache.org/images/mstile-144x144.png" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Jmeter">
-<img src="https://camo.githubusercontent.com/543f1567814b12794f41466fa015c6ea2aa8024eff511520cf6feee899a13a28/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6a6972615f636c6f75645f6d61636f735f6269677375725f69636f6e5f3139303035312e706e67" title="Jmeter" alt="Jmeter" width="80" height="80"/>&nbsp;
+<img src="https://camo.githubusercontent.com/543f1567814b12794f41466fa015c6ea2aa8024eff511520cf6feee899a13a28/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6a6972615f636c6f75645f6d61636f735f6269677375725f69636f6e5f3139303035312e706e67" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
 </div>
