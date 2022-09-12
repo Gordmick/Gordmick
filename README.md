@@ -30,7 +30,7 @@
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Jmeter">
 <img src="https://jmeter.apache.org/images/mstile-144x144.png" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
-<a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov">
+<a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/blob/main/Jira/readme.md">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
 </a>
 </div>
