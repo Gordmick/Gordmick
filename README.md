@@ -31,6 +31,6 @@
 <img src="https://jmeter.apache.org/images/mstile-144x144.png" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Jmeter">
-<img src="https://camo.githubusercontent.com/543f1567814b12794f41466fa015c6ea2aa8024eff511520cf6feee899a13a28/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6a6972615f636c6f75645f6d61636f735f6269677375725f69636f6e5f3139303035312e706e67" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
 </a>
 </div>
