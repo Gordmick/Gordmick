@@ -28,7 +28,6 @@
 <img src="https://miro.medium.com/fit/c/294/294/1*MjtZabdd0xkWLT-i9HxmAw.png" title="Devtools" alt="Devtools" width="80" height="80"/>&nbsp;
 </a>
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/Jmeter">
-<img src="https://katalon-store.s3.amazonaws.com/8k044akj7cl7kfdh-JmeterPlugins_140px@2x.png" title="Jmeter" alt="Jmeter" width="80" height="80"/>&nbsp;
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b739b2c64813e26b9968100a5983bb9f/apache-jmeter.png" title="Jmeter" alt="Jmeter" width="80" height="80"/>&nbsp;
 </a>
 </div>
-
