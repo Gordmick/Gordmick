@@ -34,3 +34,4 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
 </a>
 </div>
+
