@@ -4,6 +4,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+<a  href="https://github.com/Gordmick/Gordievskiy_Java_v11">
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+</a>
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/tree/main/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   </a>
@@ -33,4 +36,5 @@
 <a  href="https://github.com/Gordmick/HOMEWORKS_Course_V_Ksendzov/blob/main/Jira/readme.md">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
 </a>
+
 </div>
