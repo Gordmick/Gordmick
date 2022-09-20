@@ -38,11 +38,9 @@
 </a>
 
 </div>
-<div id="badges">
-  <p align="center">
-    
+
   <p/>
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=MikhailGordievskiya&style=flat-square&color=blue" alt=""/>
   <p/>
 </div>
